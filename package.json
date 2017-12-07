@@ -1,0 +1,14 @@
+{
+  "name": "todovueapp",
+  "version": "1.0.0",
+  "description": "Vue.js To-Do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Tristan Simpson",
+  "license": "ISC"
+}
